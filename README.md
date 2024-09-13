@@ -1,2 +1,2 @@
-# heart
-2d to 3d
+# echo view classification
+2CH, 4CH, ...
